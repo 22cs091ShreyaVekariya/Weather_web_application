@@ -26,9 +26,13 @@ python app.py
 -> Open your web browser and go to http://localhost:5000.
 -> Enter the location for which you want to check the weather conditions in the provided input field and click on the "Search" button.
 -> The weather conditions for the specified location will be displayed on the screen.
-### Configuration
+## Configuration
 -> You can configure the application to use a different weather API provider or adjust other settings in the config.py file.
 
-### Dependencies
+## Dependencies
 -> Flask: A lightweight WSGI web application framework.
 -> requests: A simple HTTP library for Python, used for making API requests.
+
+## Acknowledgements
+-> Thanks to the OpenCV community for their valuable resources and tutorials.
+-> 22CS024 Juli Gopani
