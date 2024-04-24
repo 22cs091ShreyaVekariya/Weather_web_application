@@ -35,4 +35,4 @@ python app.py
 
 ## Acknowledgements
 -> Thanks to the OpenCV community for their valuable resources and tutorials.
--> 22CS024 Juli Gopani
+-> 22CS091 Shreya Vekariya
